@@ -16,6 +16,11 @@
 </head>
 <body>
     <h1>{{ name }}'s Portfolio</h1>
+
+    {% if avatar_url %}
+        <img src="{{ avatar_url }}" alt="{{ name }}のアイコン" style="width:150px; height:150px; border-radius: 50%; margin-bottom: 20px;">
+    {% endif %}
+
     <h2>About Me</h2>
     <p>{{ about_me }}</p>
 
