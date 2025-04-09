@@ -66,7 +66,10 @@ output/
 
 ---
 
-## 🖼️ 出力サンプル
+## 🖼️ 実行画面　
+※実行例として、私のGitHubアカウントから生成したHTMLページのスクリーンショットを載せています。
 
-準備中
+<img width="1200" alt="スクリーンショット 2025-04-09 9 39 09" src="https://github.com/user-attachments/assets/73fc5ebc-bdc5-44d0-9303-1f62558e8597" />
+
+
 ---
