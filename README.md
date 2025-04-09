@@ -72,3 +72,7 @@ output/
 <img width="1200" alt="スクリーンショット 2025-04-09 9 39 09" src="https://github.com/user-attachments/assets/dbe6d22d-f177-49b0-8df9-ac0a13b2774a" />
 
 ---
+
+## 🔭 今後の展望(予定)
+- 各リポジトリの使用言語を画像バッジ表示
+- ダークモード切り替え
