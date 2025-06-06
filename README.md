@@ -3,7 +3,6 @@
 GitHubのリポジトリ情報を自動取得し、リポジトリ一覧ページを生成するPythonツールです。  
 私が初めてPythonを使った作品です。
 
----
 
 ## 📌 概要
 
@@ -69,7 +68,7 @@ output/
 ## 🖼️ 実行画面　
 ※実行例として、私のGitHubアカウントから生成したHTMLページのスクリーンショットを載せています。
 
-<img width="1200" alt="スクリーンショット 2025-04-09 9 39 09" src="https://github.com/user-attachments/assets/dbe6d22d-f177-49b0-8df9-ac0a13b2774a" />
+<img width="1662" alt="スクリーンショット 2025-06-05 18 04 58" src="https://github.com/user-attachments/assets/f161b461-9539-4534-8ba8-6692eb9561f2" />
 
 ---
 
